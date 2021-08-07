@@ -1,0 +1,17 @@
+body {
+  /*background-color: lightblue;*/
+  background: url("bgimage.jpg");  
+  background-repeat: no-repeat; 
+  background-size: cover; 
+  
+  /*text-align: center; */
+}
+
+h1 {
+  color: white;
+}
+.container {
+  width: 60%;
+  margin: auto;
+  text-align: center;
+}
